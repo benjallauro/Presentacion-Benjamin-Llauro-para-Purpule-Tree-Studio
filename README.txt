@@ -1,0 +1,1 @@
+NOTA: Los componentes RigidBody visibles en las piedras existen unicamente con el fín de hacer funcionar las colisiones y no afectan al tiro parabólico bajo ningún concepto
